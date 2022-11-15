@@ -39,5 +39,5 @@ jobs:
     - name: Upload GitHub Artifact
       uses: actions/upload-artifact@v2
       with:
-        name: Custom-Crops Plugin 
+        name: Custom-Fishing Plugin 
         path: ./build/libs
